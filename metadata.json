@@ -1,0 +1,5 @@
+{
+  "name": "날씨의 맛 (Taste of Weather)",
+  "description": "An application that recommends Korean food based on the current weather, mealtime, and user preferences. It provides a food name, a descriptive reason, a familiarity score, and a generated image of the dish.",
+  "requestFramePermissions": []
+}
